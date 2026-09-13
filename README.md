@@ -1,4 +1,4 @@
-# Dimitrios — Personal Portfolio
+# Dimitrios Tsantopoulos — Personal Portfolio
 
 Static, deployable HTML/CSS/JS portfolio.
 
